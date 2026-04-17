@@ -1,5 +1,5 @@
 # Three Phase System
- this project is analyzing and solving different three phase system (delta-delta, star-star, delta-star, star-delta)
+This project analyzes and solves different three‑phase power systems (delta–delta, star–star, delta–star, and star–delta configurations).
 
 
 ##  ScreenShot 
