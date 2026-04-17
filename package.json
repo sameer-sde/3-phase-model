@@ -2,6 +2,7 @@
   "name": "three-phase",
   "version": "0.1.0",
   "private": true,
+  "description": "Three-phase power system analyzer for delta–delta, star–star, delta–star, and star–delta configurations.",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
